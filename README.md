@@ -1,5 +1,5 @@
-# Vortex OS
-Vortex Operating System for HTML-enabled devices
+  # Vortex OS
+  Vortex Operating System for HTML-enabled devices
 
 
 ![logo-preview](https://github.com/user-attachments/assets/86b54fbf-4bdc-46f3-a678-0c4a935022e8)
